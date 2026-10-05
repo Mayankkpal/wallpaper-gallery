@@ -40,7 +40,7 @@ Once GitHub Pages is enabled, add your website link here:
 https://github.com/Mayankkpal/wallpaper-gallery.git
 ````
 ```This is.....
-(https://onecompiler.com/html/455a6txw6)
+https://wallpaper-gallery.oneapp.dev/
 ```
 
 ## 👨‍💻 Developer
